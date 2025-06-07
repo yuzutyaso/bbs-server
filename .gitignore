@@ -1,9 +1,0 @@
-# 環境変数ファイル
-.env
-
-# Node.js依存関係
-/node_modules
-
-# ログファイルなど
-npm-debug.log*
-.DS_Store
